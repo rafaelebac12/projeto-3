@@ -1,0 +1,54 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.navbar {
+    background-color: dodgerblue;
+}
+
+.nav .nav-link.active {
+    background-color: white;
+    color:dodgerblue;
+}
+
+.nav .nav-link,
+.navbar-brad,
+.navbar-brand:hover {
+    color: white;
+}
+
+
+.navbar-toggler {
+    background-color: #ffeae6;
+}
+
+.section-title {
+    font-family: Pacifico, cursive;
+}
+
+#sobre-ebac-gaming, #promoçoes {
+    background-color: azure;
+}
+
+.text-colored {
+    background-color: dodgerblue;
+}
+
+.nav-promoçoes .nav-link.active,
+#fale-conosco button {
+    background-color: dodgerblue;
+    color: white;
+}
+
+.nav-promoçoes .nav-link:hover {
+    color: dodgerblue;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+} 
